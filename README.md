@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jonas0204
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on idk.
+- 📫 How to reach me spam.jonas.h@web.de
